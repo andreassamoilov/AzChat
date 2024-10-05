@@ -1,0 +1,9 @@
+version: "3"
+services:
+  react-app:
+    build: .
+    ports:
+      - "3100:80"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
