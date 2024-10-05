@@ -2,6 +2,9 @@
 
 AzChat lets you run your own chatbot using Azure's OpenAI service. It allows you to use powerful LLMs like GPT-4o while keeping things private by running it yourself. This project was developed with the help of GPT-4 and Claude 3.5 Sonnet.
 
+## Demo
+[demo.webm](https://github.com/user-attachments/assets/5f867134-4c39-4c76-a0cb-a162f4e2c44a)
+
 ## Features
 
 - Integration with Azure OpenAI service
